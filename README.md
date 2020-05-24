@@ -1,2 +1,2 @@
-Login_Page-Java
+# Login_Page-Java
 Created using Eclipse IDE with Windows Builder and MySQL plugin. Whenever extra windows are created the program will crash unexpectedly, therefore, Forgot Password and Register User functions are kept on a single window with Login. SQL exception will be thrown whenever Forgot Password functionality is run, however, the program will successfully update the password in the SQL database regardless. MySQL database connector file is included within this repository to ensure connection from Eclipse to MySQL. The Windows Builder plugin or some version of JFrame may be needed to ensure compatibility with other Eclipse IDE's.
